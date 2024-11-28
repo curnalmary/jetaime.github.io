@@ -31,7 +31,7 @@ h1{
 	border: 1px solid white;
 	margin-top: 800px;
 	background-color: white;
-	background-image: url(Je t'aime.gif);
+	background-image: url("Je t'aime.gif");
 	background-position: center;
 	background-size: cover;
 	border-top:200px solid white;
